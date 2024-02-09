@@ -5,4 +5,5 @@
 💥 ~ {My Discord}: sqlkaiioz.
 🐍 ~ {My telegram}: zKaiioZ
 
-🇵🇸 ~ https://guns.lol/zKaiioZ
+
+🏴 ~ https://guns.lol/zKaiioZ
