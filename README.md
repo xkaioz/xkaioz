@@ -4,7 +4,7 @@
 
 👑 ~ My account:
 
-💥 ~ {My Discord}: sqlkaiioz.
+💥 ~ {My Discord}: wkaiioz.
 
 🐍 ~ {My telegram}: zKaiioZ
 
