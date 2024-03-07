@@ -1,13 +1,16 @@
+
+
+⭐️ ~ # About me:
+
 ⚡️ ~ Hello, I am zKaiioZ, a python developer who develops scripts. 🥀
 
+📍 ~ 🇫🇷
 
+👾 ~ Skills: Python
 
-👑 ~ My account:
+👑 ~ # My account:
 
-💥 ~ {My Discord}: wkaiioz.
+💥 ~ Discord: wkaiioz.
 
-🐍 ~ {My telegram}: zKaiioZ
+🐍 ~ Telegram: zKaiioZ
 
-
-
-🏴 ~ https://guns.lol/zKaiioZ
