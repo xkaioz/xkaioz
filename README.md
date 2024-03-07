@@ -1,6 +1,4 @@
-
-
-⭐️ ~ # About me:
+⭐️ ~ About me:
 
 ⚡️ ~ Hello, I am zKaiioZ, a python developer who develops scripts. 🥀
 
@@ -8,7 +6,8 @@
 
 👾 ~ Skills: Python
 
-👑 ~ # My account:
+
+👑 ~ My account:
 
 💥 ~ Discord: wkaiioz.
 
