@@ -1,15 +1,9 @@
-⭐️ ~ About me:
++---------------------------+
 
-⚡️ ~ Hello, I am zKaiioZ, a python developer who develops scripts. 🥀
+Skills  : Python | SQL
+Language: Python
+Country : 🇫🇷
+Team    : Nexorius | Atsuko | Armada
 
-📍 ~ 🇫🇷
-
-👾 ~ Skills: Python
-
-
-👑 ~ My account:
-
-💥 ~ Discord: wkaiioz.
-
-🐍 ~ Telegram: zKaiioZ
++---------------------------+
 
