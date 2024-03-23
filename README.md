@@ -1,12 +1,18 @@
 +---------------------------+
 
+About me:
+
 Skills  : Python | SQL
 
 Language: Python
 
 Country : 🇫🇷
 
-Team    : Nexorius | Atsuko | Armada
+Account:
+
+Telegram: zKaiioZ
+
+Discord: wkaiioz.
 
 +---------------------------+
 
